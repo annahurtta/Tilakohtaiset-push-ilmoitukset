@@ -1,1 +1,1 @@
-en osaa tehdä mitään ja toi Matti nostaa varmaa penkist satkun
+en osaa tehdï¿½ mitï¿½ï¿½n ja
