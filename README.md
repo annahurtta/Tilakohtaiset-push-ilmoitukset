@@ -1,2 +1,3 @@
 Hermannin kommentti:
-	Tästä tulee huikea projekti, niinku kaikista muistaki.
+	Tï¿½stï¿½ tulee huikea projekti, niinku kaikista muistaki.
+	Jee jee lisÃ¤tty tekstiÃ¤ wohoo.
