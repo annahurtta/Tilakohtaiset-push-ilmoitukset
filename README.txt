@@ -1,0 +1,1 @@
+en osaa tehdä mitään ja toi Matti nostaa varmaa penkist satkun
