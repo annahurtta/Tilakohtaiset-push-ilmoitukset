@@ -48,7 +48,9 @@ tarjouspyynnön liitteenä
 ####Hyvä dokumentti
 - Selkeä rakenne ja kattavuus
 - Riittävän havainnollistavat kaaviot, kuvat ja taulukot
-- 
-    onko tämä sellainen? miksi?
-    kaavioiden käyttö: laatu? määrä? hyöty?
+- Oikeanlainen kirjoituskieli kohderyhmää ajatellen
+
+- Pääosin dokumentti oli rakenteeltaan hyvä, poislukien muutamia keskeisiä puutteita johtuen projektin vaiheesta.
+Kaavioita oli korvattu kuvakaappauksilla, sillä sivuston ulkoasu on suunniteltu hyvin. Taulukoita oli varsinkin
+käyttöliittymiin ja vaatimuksiin liittyen, ja ne olivat sopivan yksinkertaisia.
 
