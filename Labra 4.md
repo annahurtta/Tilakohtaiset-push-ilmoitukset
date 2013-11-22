@@ -5,12 +5,12 @@
 
 (johdanto)
 
-    -KKV:n verkkouudistus 2013-14
-    -Tarkoitettu projektin mahdolliselle toteuttajalle tarjouspyyntöä varten
-    -Kilpailuvirasto ja Kuluttajavirasto yhdistyvät Kilpailu- ja kuluttajavirastoksi (KKV), ja sille tarvitaan
-        uusi verkkopalvelu
-    -Dokumentti on luotu tarjouspyyntöä varten
-    -Rakenne on selkeä ja hyvin eritelty, hieman suppeampi kuin esimerkkiprojektissa. 
+- KKV:n verkkouudistus 2013-14
+- Tarkoitettu projektin mahdolliselle toteuttajalle tarjouspyyntöä varten
+- Kilpailuvirasto ja Kuluttajavirasto yhdistyvät Kilpailu- ja kuluttajavirastoksi (KKV), ja sille tarvitaan
+uusi verkkopalvelu
+- Dokumentti on luotu tarjouspyyntöä varten
+- Rakenne on selkeä ja hyvin eritelty, hieman suppeampi kuin esimerkkiprojektissa. 
 
 (käyttötapaukset)
 
