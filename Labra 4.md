@@ -26,25 +26,29 @@ uusi verkkopalvelu
 
 ###Funktionaaliset & ei-funktionaaliset vaatimukset
 
-- Vaatimuksia ei ole listattu, vaan ne on jaoteltu omiin alaotsikoihinsa
+- Funktionaalisia vaatimuksia ei ole listattu, vaan ne on jaoteltu omiin alaotsikoihinsa. Ei-funktionaaliset
+vaatimukset sen sijaan on listattu.
+- Tunnistetietoina käytetään vain dokumentin alaotsikoiden numerointia
+- Ei-funktionaaliset vaatimukset ovat erittäin jäljitettäviä ja mitattavia. Niitä varten on asetettu tiukat kriteerit,
+joita sovelletaan määriteltyjen standardien mukaisesti
+
+###Miltä se näyttää?
+
+- Käyttöliittymän eri elementeistä on paljon kuvia sekä taulukoita
+- Kuvat ovat suoria kuvakaappauksia valmiista käyttöliittymästä, sekä web- että mobiilikäyttöliittymästä
+- Sivuston navigointi on selitetty kattavasti tekstin sekä havainnollistavien kuvakaappausten avulla
+
+###Prosessimalli
+
+- Projektille ei ole kuvattu prosessimallia. Projektin lopullinen budjetti ja resurssit pyydetään määrittelemään
+tarjouspyynnön liitteenä
+
+###Johtopäätökset, oma mielipide
+
+####Hyvä dokumentti
+- Selkeä rakenne ja kattavuus
+- Riittävän havainnollistavat kaaviot, kuvat ja taulukot
 - 
-    jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
-
-(miltä se näyttää)
-
-    onko käyttöliittymästä kuvia?
-    luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
-    miten eri näkymien (views) välillä liikutaan?
-
-(prosessimalli)
-
-    onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-    resurssit? budjetti?
-    riskianalyysi?
-
-(johtopäätökset, oma mielipide)
-
-    mikä tekee hyvän dokumentin?
     onko tämä sellainen? miksi?
     kaavioiden käyttö: laatu? määrä? hyöty?
 
